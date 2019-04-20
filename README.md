@@ -31,7 +31,7 @@ PCIe capable M.2 slot(s) (preferably with high power design)
 	- `i` helps identifying the targeted worker(s)
 
 ## Notes
-Acorns can run at a max of 125C before thermal shut down, and 110C for an extended period of time (I'd personally keep it <100C just to be safe)
+Acorns can run at a max of 125C before thermal shut down, and 110C for an extended period of time (keep it <100C just to be safe)
 
 ## Exmaple Flight Sheet
 Coming soon
